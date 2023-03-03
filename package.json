@@ -1,6 +1,6 @@
 {
   "name": "route-handlers-cors",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Middleware that can be used to enable CORS in NextJS Route Handlers.",
   "license": "MIT",
   "author": "Dawid Urbas",
