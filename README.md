@@ -1,4 +1,4 @@
-# `route-handlers-cors` cors library for Next.js Route Handlers
+# `route-handlers-cors` is a CORS middleware library for Next.js Route Handlers
 
 `setupCors` is a utility function that sets up Cross-Origin Resource Sharing (CORS) middleware for a Next.js Route Handlers. It allows you to define the CORS configuration options and applies them to incoming requests, adding the appropriate CORS headers to the response.
 
