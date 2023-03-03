@@ -22,7 +22,7 @@ pnpm add route-handlers-cors@latest
 Here's an example of how to use `setupCors` in a Next.js Route Handlers:
 
 ```typescript
-import { setupCors } from 'route-handlers-cors';
+import setupCors from 'route-handlers-cors';
 import { NextResponse, NextRequest } from "next/server";
 
 export async function GET(request: NextRequest) => {
