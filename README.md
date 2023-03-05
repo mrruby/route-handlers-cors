@@ -49,7 +49,7 @@ export async function GET(request: NextRequest) => {
 ## Stay in touch
 
 - Github [@mrruby](https://github.com/mrruby)
-- Twitter [@getbold.eth](https://twitter.com/getbold.eth)
+- Twitter [@getbold_eth](https://twitter.com/getbold_eth)
 
 ## Contributors
 
